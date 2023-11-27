@@ -7,6 +7,7 @@
 <img src= "./public/images/punto-1.png" alt="punto1">
 
 <h2>Punto 2: Suma de Constantes y Variables</h2>
+<img src= "./public/images/punto-2.png" alt="punto2">
 
 <h2>Punto 3: Suma de dos numeros indicados por el usuario</h2>
 
