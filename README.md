@@ -13,6 +13,7 @@
 <img src= "./public/images/punto-3.png" alt="punto3">
 
 <h2>Punto 4: Datos del usuario en consola </h2>
+<img src= "./public/images/punto-4.png" alt="punto4">
 
 <h2>Punto 5: Entrada de Bolera usando if / else </h2>
 
