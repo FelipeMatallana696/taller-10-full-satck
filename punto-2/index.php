@@ -4,10 +4,12 @@ const FIRSTNUMBER = 20;
 $secondNumber = 16;
 
 //proceso
-echo FIRSTNUMBER + $secondNumber . "\n";
+$result = FIRSTNUMBER + $secondNumber;
+echo FIRSTNUMBER . "+" .  $secondNumber . "=" . $result. "\n";
 
 //Output
 $secondNumber = 10;
-echo FIRSTNUMBER + $secondNumber;
+$result = FIRSTNUMBER + $secondNumber;
+echo FIRSTNUMBER . "+" .  $secondNumber . "=" . $result. "\n";
 
 ?>
