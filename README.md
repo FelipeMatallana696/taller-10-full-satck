@@ -19,6 +19,7 @@
 <img src= "./public/images/punto-5.png" alt="punto5">
 
 <h2>Punto 6: Deteccion de mayoria de edad</h2>
+<img src= "./public/images/punto-6.png" alt="punto6">
 
 <h2>Punto 7: seleccion de operacion aritmetica</h2>
 
