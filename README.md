@@ -28,6 +28,7 @@
 <img src= "./public/images/punto-8.png" alt="punto8">
 
 <h2>Punto 9: Tabla de multiplicar usando while </h2>
+<img src= "./public/images/punto-9.png" alt="punto9">
 
 <h2>Punto 10: Numeros pares usando while</h2>
 
