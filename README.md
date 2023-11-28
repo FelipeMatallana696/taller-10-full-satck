@@ -25,6 +25,7 @@
 <img src= "./public/images/punto-7.png" alt="punto7">
 
 <h2>Punto 8: Entrada de bolera usando switch</h2>
+<img src= "./public/images/punto-8.png" alt="punto8">
 
 <h2>Punto 9: Tabla de multiplicar usando while </h2>
 
