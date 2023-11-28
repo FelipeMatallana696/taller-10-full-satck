@@ -31,6 +31,7 @@
 <img src= "./public/images/punto-9.png" alt="punto9">
 
 <h2>Punto 10: Numeros pares usando while</h2>
+<img src= "./public/images/punto-10.png" alt="punto10">
 
 <h2>Punto 11: Numeros impares usando for</h2>
 
