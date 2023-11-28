@@ -37,6 +37,7 @@
 <img src= "./public/images/punto-11.png" alt="punto11">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
+<img src= "./public/images/punto-12.png" alt="punto12">
 
 <h2>Punto 13: suma de valores usando foreach</h2>
 
