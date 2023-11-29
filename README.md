@@ -40,6 +40,7 @@
 <img src= "./public/images/punto-12.png" alt="punto12">
 
 <h2>Punto 13: suma de valores usando foreach</h2>
+<img src= "./public/images/punto-13.png" alt="punto13">
 
 <h2>Punto 14: revision de contraseña</h2>
 
