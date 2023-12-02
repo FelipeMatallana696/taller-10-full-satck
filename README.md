@@ -46,3 +46,4 @@
 <img src= "./public/images/punto-14.png" alt="punto14">
 
 <h2>Punto 15: Seleccion de operacion aritmetica usando funciones </h2>
+<img src= "./public/images/punto-15.png" alt="punto15">
